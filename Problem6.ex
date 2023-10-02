@@ -14,5 +14,3 @@ end
 
 Problem6.solve(100)
 |> IO.puts
-
-# Prints 25164150
