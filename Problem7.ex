@@ -22,5 +22,3 @@ end
 
 Problem7.solve(10001)
 |> IO.puts
-
-# Prints 104743
