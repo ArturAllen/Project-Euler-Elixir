@@ -23,11 +23,7 @@ defmodule Problem5 do
 end
 
 # Problem5.solve(20) |> IO.puts
-
-# Prints 232_792_560
 # Slow :')
 
 Problem5.better_solve(20) |> IO.puts
-
-#prints 232_792_560
 # Fast :)
