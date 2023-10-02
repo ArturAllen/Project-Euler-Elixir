@@ -21,5 +21,3 @@ case Problem9.solve(1000) do
   {:error, _} -> IO.puts("Could not find a triplet")
   {:ok, {a, b, c}}    -> IO.puts("The product of the triplet is #{a*b*c}")
 end
-
-# Prints The product of the triplet is 31875000
