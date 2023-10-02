@@ -13,5 +13,3 @@ large_n = 600_851_475_143
 large_n
 |> Problem3.solve
 |> IO.puts
-
-# Prints 6857
